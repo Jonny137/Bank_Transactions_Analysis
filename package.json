@@ -1,0 +1,15 @@
+{
+  "name": "bank_transaction",
+  "version": "1.0.0",
+  "description": "Bank transaction small app",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Nikola Stevanović",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
