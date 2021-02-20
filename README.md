@@ -11,7 +11,7 @@ An app which creates a user, connects them to a specified bank, fetches their tr
 
 ### Usage
 
-Install the depenencies.
+Install the dependencies.
 **`npm ci`**
 
 Modify the **.env-template** `API_KEY` value with correct value from your BasiQ account and rename the file to **.env**.
